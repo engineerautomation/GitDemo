@@ -9,11 +9,11 @@ public class RESTAPITest {
 		System.out.println("postJira println GitStuff2");
 		System.out.println("postJira println GitStuff3");
 		System.out.println("postJira println GitStuff4");
-		System.out.println("for Conflicts");
+		System.out.println("postJira for Conflicts");
 	}
  
 	@Test
 	public void deleteTwitter() {
-		System.out.println("deleteTwittera");
+		System.out.println("deleteTwittera = postJira");
 	}
 }
