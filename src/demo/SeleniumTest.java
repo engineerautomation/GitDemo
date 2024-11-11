@@ -15,4 +15,9 @@ public class SeleniumTest {
 	public void deleteTwitter() {
 		System.out.println("SeleniumTest deleteTwittera");
 	}
+	
+	@Test
+	public void deleteTwitter3() {
+		System.out.println("SeleniumTest deleteTwittera");
+	}
 }

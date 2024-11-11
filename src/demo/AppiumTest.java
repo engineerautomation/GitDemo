@@ -1,8 +1,8 @@
 package demo;
 
-import org.testng.annotations.*;
+import org.testng.annotations.Test;
 
-public class RESTAPITest {
+public class AppiumTest {
 	@Test
 	public void postJira() {
 		System.out.println("postJira println GitStuff");
@@ -18,7 +18,7 @@ public class RESTAPITest {
 	}
 	
 	@Test
-	public void deleteTwitter3() {
-		System.out.println("deleteTwittera = postJira3");
+	public void deleteTwitters() {
+		System.out.println("deleteTwittera = postJira");
 	}
 }
